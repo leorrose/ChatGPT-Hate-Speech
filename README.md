@@ -3,11 +3,9 @@
 ## Repository Contents
 This repository contains code for the Ben Gurion University "Natural Language Processing (372.2.5702)" course project. This code was created with <b> Python(3.9.15), pandas, numpy and more libraries</b>.
 
-- Code - [EDA](https://github.com/leorrose/ChatGPT-Hate-Speech/blob/main/eda.ipynb), [Hate speech and target detection](https://github.com/leorrose/ChatGPT-Hate-Speech/blob/main/hate_speech_chat_gpt.ipynb), [Quantativ evalution](https://github.com/leorrose/ChatGPT-Hate-Speech/blob/main/quantitative_evaluation.ipynb)
+- Code - [EDA](https://github.com/leorrose/ChatGPT-Hate-Speech/blob/main/eda.ipynb), [Hate speech and target detection](https://github.com/leorrose/ChatGPT-Hate-Speech/blob/main/hate_speech_chat_gpt.ipynb), [Quantativ evalution](https://github.com/leorrose/ChatGPT-Hate-Speech/blob/main/quantitative_evaluation.ipynb).
 
-- Report - 
-
-- Presentation - 
+- Report - [Report](https://github.com/leorrose/ChatGPT-Hate-Speech/blob/main/report.pdf).
 
 ## Project Setup and Run:
 
