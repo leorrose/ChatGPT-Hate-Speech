@@ -13,7 +13,7 @@ This repository contains code for the Ben Gurion University "Natural Language Pr
 2. Open cmd/shell/terminal and go to project folder: `cd ChatGPT-Hate-Speech`
 3. Create conda environment: `conda env create -f environment.yml`
 4. Create token.txt file and insert you ChatGPT token:
-    - Go to https://chat.openai.com/api/auth/session
+    - Go to [ChatGPT](https://chat.openai.com/api/auth/session)
     - Press F12 to open console
     - Go to Application > Cookies
     - Copy the session token value in __Secure-next-auth.session-token
